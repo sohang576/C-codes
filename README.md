@@ -1,2 +1,2 @@
-# C-codes
-some of my codes written in c
+# C-codes-lab
+my codes in lab
